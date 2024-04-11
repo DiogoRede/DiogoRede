@@ -4,7 +4,7 @@
 
 📫 <a href="https://portfolio-diogo-rede.vercel.app/" target="_blank">Portfolio</a>
 
-🤔 Atualmente estou me aprofundando em Java e estudando JavaScript/ReactJS.
+🤔 Atualmente estou me aprofundando em Java e estudando JavaScript/ReactJS/Angular.
 
 😄 Meu hobby passar um tempo com minha familia e praticar pentest no HackTheBox
 
